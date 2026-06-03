@@ -1,0 +1,6 @@
+interface:
+  display_name: "游戏UI整页生成"
+  short_description: "生成单页游戏UI方案与图像提示词"
+  default_prompt: "Use $game-ui-page-generator to design a complete mobile game home screen UI with a copy-ready image generation prompt."
+policy:
+  allow_implicit_invocation: true
